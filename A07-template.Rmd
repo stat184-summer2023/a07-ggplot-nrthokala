@@ -5,7 +5,7 @@ date: "6/9/23"
 output: html_notebook
 ---
 
-## Bicycle Sharing
+## Bicycle Sharing 
  
 Capital BikeShare is a bicycle-sharing system in Washington, D.C. At any of about 400 stations, a registered user can unlock and check out a bicycle. After use, the bike can be returned to the same station or any of the other stations.
 
